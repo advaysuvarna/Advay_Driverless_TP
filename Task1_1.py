@@ -1,4 +1,4 @@
-n=int(input("Enter the number"))
+n=int(input("Enter the number of strings: "))
 y=n
 Lstrings=[]
 while(n>0): 
